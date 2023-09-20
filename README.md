@@ -1,2 +1,2 @@
 # tp1Equipe
-travail en equipe github tp1 genie logiciel
+travail en equipe github TP1 genie logiciel
